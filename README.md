@@ -1,4 +1,4 @@
-# 2020-django
+# django-2020
 
 ## 08.08 강의 순서 
 1. speed review
